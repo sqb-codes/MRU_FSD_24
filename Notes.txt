@@ -1,0 +1,41 @@
+Javascript
+- Client/Server Side Dynamic Scripting Language
+
+Netscape
+- Nexus - static browser
+- Tim Berners Lee - HTML and w3(www)
+
+Brendon Eich - Self + Java + Python
+- written JS in 10 days
+- Mosaic - dynamic browser
+
+- Mocha was initial name of Javascript
+- Launched in market with name of Livescript
+- Then named as Javascript
+
+- Mozilla was introduced by Brendon Eich
+- Brave
+
+- JScript was introduced by Microsoft
+
+- Netscape hand over JS to ECMAScript for standardization
+
+
+Features of JS
+- Event Driven Language
+  - JS works when an Event is triggered
+  - Events like click, keypress, scroll
+- Interpreted Language
+- Dynamically Typed
+- Loosely Typed
+- Functional Programming
+  - Functions are first class citizens
+- DOM - Document Object Model
+- BOM - Browser Object Model
+
+
+V8 Engine - Compiler for Chrome
+Spider Monkey
+Chakra
+
+
