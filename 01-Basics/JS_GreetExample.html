@@ -4,24 +4,37 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-</head>
-<body>
-
-    <h1>Greet Example</h1>
-
-    <input type="text" id="username" placeholder="Enter your name">
-    <button onclick="greet()">Greet User</button>
-
-    <h2>Welcome : <span id="output"></span></h2>
-    
-
-    <script>
+    <!-- <script>
         function greet() {
             var username = document.getElementById("username");
             // console.log(username.value);
             document.getElementById("output").innerText = username.value;
             username.value = "";
         }
-    </script>
+    </script> -->
+
+    <script src="greet.js"></script>
+</head>
+<body>
+
+    <h1>Greet Example</h1>
+
+    <input type="text" id="username" placeholder="Enter your name">
+    <!-- <button onclick="greet()">Greet User</button> -->
+    <button id="btn">Greet User</button>
+
+    <h2>Welcome : <span id="output"></span></h2>
+    
+
+    <!-- <script>
+        function greet() {
+            var username = document.getElementById("username");
+            // console.log(username.value);
+            document.getElementById("output").innerText = username.value;
+            username.value = "";
+        }
+    </script> -->
+
+    <!-- <script src="greet.js"></script> -->
 </body>
 </html>
