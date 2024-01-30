@@ -1,0 +1,29 @@
+#box {
+    width: 63%;
+    margin: 0 auto;
+    display: block;
+    text-align: right;
+    font-size: 2.5em;
+    height: 100px;
+}
+
+table {
+    width: 50%;
+    margin: 0 auto;
+}
+
+button {
+    width: 300px;
+    background-color: lightcoral;
+    height: 100px;
+    /* 1em = 16px */
+    font-size: 3em;
+    color: #fff;
+}
+.result {
+    width: 100%;
+}
+
+button:hover {
+    background-color: black;
+}
